@@ -2,7 +2,10 @@
 
 ### Clone
 ```
+# ssh
 git clone git@github.com:DazedMikey/kasm-dcs-server.git
+# https
+git clone https://github.com/DazedMikey/kasm-dcs-server.git
 ```
 
 ### Build
