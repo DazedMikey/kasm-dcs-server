@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Terminal=false
+Name=DCS-Server
+Icon=/home/kasm-user/DCS_Icon.png
+Exec=/home/kasm-user/start_dcs.sh
