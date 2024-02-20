@@ -27,5 +27,5 @@ make build push
 
 ### Release
 ```
-make release
+make build push release
 ```
