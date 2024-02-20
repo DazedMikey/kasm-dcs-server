@@ -1,10 +1,12 @@
 # DCS Kasm Server
 
-### Clone
+## Clone Repo
+##### ssh
 ```
-# ssh
 git clone git@github.com:DazedMikey/kasm-dcs-server.git
-# https
+```
+##### https
+```
 git clone https://github.com/DazedMikey/kasm-dcs-server.git
 ```
 
